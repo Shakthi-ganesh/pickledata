@@ -96,7 +96,8 @@
       "image": "https://img-global.cpcdn.com/recipes/971bdca770b7c726/1200x630cq70/photo.jpg",
       "description": "Prawn pickle is a delectable condiment made from prawns, also known as shrimp. The prawns are cooked with a blend of aromatic spices such as cumin, coriander, turmeric, red chili powder, and salt. The mixture is then preserved in oil or vinegar, allowing the flavors to meld and intensify over time. Prawn pickle offers a combination of savory, spicy, and tangy flavors, with the added richness and texture of the prawns. It is typically enjoyed as a side dish or accompaniment to rice, breads, or as a flavor-packed addition to sandwiches and wraps. Prawn pickle is a delightful treat for seafood lovers, adding a burst of flavor to various culinary preparations.",
       "shipping": true,
-       "featured":true
+       "featured":true,
+       "category": "Non-veg pickles"
     },
     {
       "id": "Chicken pickle",
@@ -110,7 +111,8 @@
       "image": "https://www.licious.in/blog/wp-content/uploads/2022/02/chicken-pickle.jpg",
       "description": "Chicken pickle is a savory and spicy condiment made from chicken. Tender pieces of chicken are marinated with a blend of aromatic spices such as cumin, coriander, turmeric, red chili powder, ginger, garlic, and salt. The marinated chicken is then cooked until tender and flavorful. Chicken pickle offers a delightful combination of robust and tangy flavors, with the succulent taste of chicken. It can be enjoyed as a side dish or accompaniment to rice, roti, or as a flavor enhancer in sandwiches and wraps. Chicken pickle is a popular choice among meat enthusiasts, adding a burst of savory goodness to various culinary creations.",
       "featured": true,
-      "shipping": true
+      "shipping": true,
+      "category": "Non-veg pickles"
     },
     {
       "id": "Mutton pickle",
